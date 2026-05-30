@@ -1,11 +1,1 @@
-# Sleep System
-
-::: warning Under construction
-This section isn't available yet — it will cover mattresses, bedding, and pillows, along with
-bedroom air and temperature.
-:::
-
-Healthier Homes grows as contributors add researched, cited material. If you'd like to help
-build out the **Sleep System** section, contributions are welcome.
-
-[Contribute on GitHub →](https://github.com/VolviX/healthier-homes)
+Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since 1966, when designers at Letraset and James Mosley, the librarian at St Bride Printing Library, took a 1914 Cicero translation and scrambled it to make dummy text for Letraset's Body Type sheets. It has survived not only many decades, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised thanks to these sheets and more recently with desktop publishing software including versions of Lorem Ipsum.
