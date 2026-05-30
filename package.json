@@ -1,0 +1,20 @@
+{
+  "name": "healthier-homes",
+  "version": "0.1.0",
+  "description": "A trustworthy, open-source, community-maintained guide to non-toxic, healthy choices for everyday home use.",
+  "license": "MIT",
+  "type": "module",
+  "homepage": "https://healthierhomes.io",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/VolviX/healthier-homes.git"
+  },
+  "scripts": {
+    "dev": "vitepress dev",
+    "build": "vitepress build",
+    "preview": "vitepress preview"
+  },
+  "devDependencies": {
+    "vitepress": "^1.6.3"
+  }
+}

@@ -1,0 +1,36 @@
+/**
+ * HealthierHomes.io brand theme
+ * A calm teal/green palette layered on top of the VitePress default theme.
+ */
+
+:root {
+  --vp-c-brand-1: #00897b;
+  --vp-c-brand-2: #00796b;
+  --vp-c-brand-3: #00695c;
+  --vp-c-brand-soft: rgba(0, 137, 123, 0.14);
+
+  /* Home hero gradient */
+  --vp-home-hero-name-color: transparent;
+  --vp-home-hero-name-background: linear-gradient(120deg, #00b3a4 30%, #00897b);
+
+  --vp-home-hero-image-background-image: linear-gradient(
+    -45deg,
+    #00b3a4 50%,
+    #00695c 50%
+  );
+  --vp-home-hero-image-filter: blur(44px);
+}
+
+.dark {
+  --vp-c-brand-1: #4db6ac;
+  --vp-c-brand-2: #26a69a;
+  --vp-c-brand-3: #009688;
+  --vp-c-brand-soft: rgba(77, 182, 172, 0.16);
+
+  --vp-home-hero-name-background: linear-gradient(120deg, #4db6ac 30%, #80cbc4);
+}
+
+/* Slightly roomier reading column for long-form content pages */
+.vp-doc {
+  --vp-layout-max-width: 1440px;
+}
