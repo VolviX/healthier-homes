@@ -32,6 +32,8 @@ healthier-homes/
 │   ├── air-ventilation.md   # Coming soon
 │   ├── water-system.md      # Coming soon
 │   └── public/              # Static assets (favicon, etc.)
+├── .gitignore
+├── CONTRIBUTING.md
 ├── package.json
 └── README.md
 ```
