@@ -16,13 +16,8 @@ export default defineConfig({
     ['meta', { name: 'theme-color', content: '#00897B' }],
     ['meta', { property: 'og:type', content: 'website' }],
     ['meta', { property: 'og:title', content: 'HealthierHomes.io' }],
-    [
-      'meta',
-      {
-        property: 'og:description',
-        content: 'Better choices for your household'
-      }
-    ]
+    ['meta', { property: 'og:description', content: 'Better choices for your household' }],
+    ['script', { 'data-collect-dnt': 'true', async: 'true', src: 'https://scripts.simpleanalyticscdn.com/latest.js' }]
   ],
 
   themeConfig: {
