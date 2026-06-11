@@ -11,11 +11,11 @@ way:
 | Section | What it covers | Status |
 | --- | --- | --- |
 | [Kitchen](/kitchen) | Materials that meet heat, acidity, and daily food contact — cookware, storage, cutting boards, drinkware, and more | ✅ Available |
-| Hygiene | Bathroom and personal-care material contact | 🚧 Coming soon |
-| Sleep System | Mattresses, bedding, pillows, and bedroom air & temperature | 🚧 Coming soon |
 | [Cleaning Supplies](/cleaning-supplies) | Everyday cleaning products — all-purpose sprays, laundry, floor, bathroom, glass, and disinfectants — and the ingredients you inhale and leave behind | ✅ Available |
 | Air & Ventilation | Indoor air quality, filtration, and off-gassing | 🚧 Coming soon |
 | Water System | Drinking water, filtration, and plumbing materials | 🚧 Coming soon |
+| Sleep System | Mattresses, bedding, pillows, and bedroom air & temperature | 🚧 Coming soon |
+| Hygiene | Bathroom and personal-care material contact | 🚧 Coming soon |
 
 ## Want to help?
 

@@ -33,10 +33,10 @@ export default defineConfig({
       {
         text: 'Coming Soon',
         items: [
-          { text: 'Hygiene', link: '/hygiene' },
-          { text: 'Sleep System', link: '/sleep-system' },
           { text: 'Air & Ventilation', link: '/air-ventilation' },
-          { text: 'Water System', link: '/water-system' }
+          { text: 'Water System', link: '/water-system' },
+          { text: 'Sleep System', link: '/sleep-system' },
+          { text: 'Hygiene', link: '/hygiene' }
         ]
       }
     ],
@@ -51,7 +51,7 @@ export default defineConfig({
       },
       {
         text: 'Kitchen',
-        collapsed: false,
+        collapsed: true,
         items: [
           { text: 'Overview', link: '/kitchen' },
           { text: 'Food Storage Containers', link: '/kitchen/food-storage-containers' },
@@ -67,7 +67,7 @@ export default defineConfig({
       },
       {
         text: 'Cleaning Supplies',
-        collapsed: false,
+        collapsed: true,
         items: [
           { text: 'Overview', link: '/cleaning-supplies' },
           { text: 'All-Purpose & Surface Cleaners', link: '/cleaning-supplies/all-purpose-surface-cleaners' },
@@ -84,6 +84,11 @@ export default defineConfig({
         items: [{ text: 'Overview', link: '/air-ventilation' }]
       },
       {
+        text: 'Water System',
+        collapsed: true,
+        items: [{ text: 'Overview', link: '/water-system' }]
+      },
+      {
         text: 'Sleep System',
         collapsed: true,
         items: [{ text: 'Overview', link: '/sleep-system' }]
@@ -92,11 +97,6 @@ export default defineConfig({
         text: 'Hygiene',
         collapsed: true,
         items: [{ text: 'Overview', link: '/hygiene' }]
-      },
-      {
-        text: 'Water System',
-        collapsed: true,
-        items: [{ text: 'Overview', link: '/water-system' }]
       }
     ],
 
