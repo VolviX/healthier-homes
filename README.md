@@ -26,9 +26,10 @@ healthier-homes/
 │   ├── what-people-say.md   # Community voices (under construction)
 │   ├── kitchen.md           # Kitchen overview
 │   ├── kitchen/             # Kitchen sub-categories
+│   ├── cleaning-supplies.md # Cleaning Supplies overview
+│   ├── cleaning-supplies/   # Cleaning Supplies sub-categories
 │   ├── hygiene.md           # Coming soon
 │   ├── sleep-system.md      # Coming soon
-│   ├── cleaning-supplies.md # Coming soon
 │   ├── air-ventilation.md   # Coming soon
 │   ├── water-system.md      # Coming soon
 │   └── public/              # Static assets (favicon, etc.)
