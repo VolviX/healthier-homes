@@ -13,7 +13,7 @@ way:
 | [Kitchen](/kitchen) | Materials that meet heat, acidity, and daily food contact — cookware, storage, cutting boards, drinkware, and more | ✅ Available |
 | Hygiene | Bathroom and personal-care material contact | 🚧 Coming soon |
 | Sleep System | Mattresses, bedding, pillows, and bedroom air & temperature | 🚧 Coming soon |
-| Cleaning Supplies | Surface cleaners and what contacts food-prep areas | 🚧 Coming soon |
+| [Cleaning Supplies](/cleaning-supplies) | Everyday cleaning products — all-purpose sprays, laundry, floor, bathroom, glass, and disinfectants — and the ingredients you inhale and leave behind | ✅ Available |
 | Air & Ventilation | Indoor air quality, filtration, and off-gassing | 🚧 Coming soon |
 | Water System | Drinking water, filtration, and plumbing materials | 🚧 Coming soon |
 

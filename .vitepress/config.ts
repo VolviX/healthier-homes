@@ -29,12 +29,12 @@ export default defineConfig({
       { text: 'Guide', link: '/overview' },
       { text: 'What People Say', link: '/what-people-say' },
       { text: 'Kitchen', link: '/kitchen' },
+      { text: 'Cleaning Supplies', link: '/cleaning-supplies' },
       {
         text: 'Coming Soon',
         items: [
           { text: 'Hygiene', link: '/hygiene' },
           { text: 'Sleep System', link: '/sleep-system' },
-          { text: 'Cleaning Supplies', link: '/cleaning-supplies' },
           { text: 'Air & Ventilation', link: '/air-ventilation' },
           { text: 'Water System', link: '/water-system' }
         ]
@@ -53,20 +53,35 @@ export default defineConfig({
         text: 'Kitchen',
         collapsed: false,
         items: [
-          { text: 'Kitchen Overview', link: '/kitchen' },
+          { text: 'Overview', link: '/kitchen' },
           { text: 'Food Storage Containers', link: '/kitchen/food-storage-containers' },
           { text: 'Cookware', link: '/kitchen/cookware' },
           { text: 'Utensils & Tools', link: '/kitchen/utensils-tools' },
           { text: 'Cutting Boards', link: '/kitchen/cutting-boards' },
           { text: 'Drinkware & Water Bottles', link: '/kitchen/drinkware-water-bottles' },
           { text: 'Food Wraps & Bags', link: '/kitchen/food-wraps-bags' },
-          { text: 'Dinnerware & Serving', link: '/kitchen/dinnerware-serving' }
+          { text: 'Dinnerware & Serving', link: '/kitchen/dinnerware-serving' },
+          { text: 'Dish (Hand & Dishwasher)', link: '/kitchen/dish' },
+          { text: 'Cloths, Sponges & Wipes', link: '/kitchen/cloths-sponges-wipes' }
         ]
       },
       {
-        text: 'Hygiene',
+        text: 'Cleaning Supplies',
+        collapsed: false,
+        items: [
+          { text: 'Overview', link: '/cleaning-supplies' },
+          { text: 'All-Purpose & Surface Cleaners', link: '/cleaning-supplies/all-purpose-surface-cleaners' },
+          { text: 'Laundry & Fabric Care', link: '/cleaning-supplies/laundry-fabric-care' },
+          { text: 'Floor Cleaners', link: '/cleaning-supplies/floor-cleaners' },
+          { text: 'Bathroom (Toilet, Tub, Mold)', link: '/cleaning-supplies/bathroom-cleaners' },
+          { text: 'Glass & Window Cleaners', link: '/cleaning-supplies/glass-window-cleaners' },
+          { text: 'Disinfectants & Sanitizers', link: '/cleaning-supplies/disinfectants-sanitizers' }
+        ]
+      },
+      {
+        text: 'Air & Ventilation',
         collapsed: true,
-        items: [{ text: 'Overview', link: '/hygiene' }]
+        items: [{ text: 'Overview', link: '/air-ventilation' }]
       },
       {
         text: 'Sleep System',
@@ -74,14 +89,9 @@ export default defineConfig({
         items: [{ text: 'Overview', link: '/sleep-system' }]
       },
       {
-        text: 'Cleaning Supplies',
+        text: 'Hygiene',
         collapsed: true,
-        items: [{ text: 'Overview', link: '/cleaning-supplies' }]
-      },
-      {
-        text: 'Air & Ventilation',
-        collapsed: true,
-        items: [{ text: 'Overview', link: '/air-ventilation' }]
+        items: [{ text: 'Overview', link: '/hygiene' }]
       },
       {
         text: 'Water System',

@@ -5,7 +5,7 @@ contact with the food you eat. That makes it the highest-impact room to make a f
 thoughtful material choices. Most of the gains come from one shift: moving the highest-contact
 items away from plastics and worn coatings — the usual sources of compounds like PFAS, PTFE,
 and BPA that migrate most under heat and acidity — and toward inert, durable materials like
-glass, stainless steel, cast iron, and solid wood. This section breaks the kitchen into seven
+glass, stainless steel, cast iron, and solid wood. This section breaks the kitchen into nine
 practical topics.
 
 ::: tip How to use this section
@@ -24,6 +24,8 @@ that fit your life, and make them as items wear out or need replacing.
 | [Drinkware & Water Bottles](/kitchen/drinkware-water-bottles) | Cups, glasses, and reusable bottles |
 | [Food Wraps & Bags](/kitchen/food-wraps-bags) | Wrapping, covering, and bagging food |
 | [Dinnerware & Serving](/kitchen/dinnerware-serving) | Plates, bowls, and serving pieces |
+| [Dish (Hand & Dishwasher)](/kitchen/dish) | Dish soap, dishwasher detergent, and rinse aids |
+| [Cloths, Sponges & Wipes](/kitchen/cloths-sponges-wipes) | What you wipe and scrub with — cloth materials, sponges, and disposable wipes |
 
 ## The big picture
 
