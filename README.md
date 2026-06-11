@@ -25,13 +25,28 @@ healthier-homes/
 │   ├── overview.md          # Section map (what each section covers)
 │   ├── what-people-say.md   # Community voices (under construction)
 │   ├── kitchen.md           # Kitchen overview
-│   ├── kitchen/             # Kitchen sub-categories
+│   ├── kitchen/             # Kitchen topics
+│   │   ├── food-storage-containers.md
+│   │   ├── cookware.md
+│   │   ├── utensils-tools.md
+│   │   ├── cutting-boards.md
+│   │   ├── drinkware-water-bottles.md
+│   │   ├── food-wraps-bags.md
+│   │   ├── dinnerware-serving.md
+│   │   ├── dish.md          # Hand & dishwasher
+│   │   └── cloths-sponges-wipes.md
 │   ├── cleaning-supplies.md # Cleaning Supplies overview
-│   ├── cleaning-supplies/   # Cleaning Supplies sub-categories
-│   ├── hygiene.md           # Coming soon
-│   ├── sleep-system.md      # Coming soon
+│   ├── cleaning-supplies/   # Cleaning Supplies topics
+│   │   ├── all-purpose-surface-cleaners.md
+│   │   ├── laundry-fabric-care.md
+│   │   ├── floor-cleaners.md
+│   │   ├── bathroom-cleaners.md
+│   │   ├── glass-window-cleaners.md
+│   │   └── disinfectants-sanitizers.md
 │   ├── air-ventilation.md   # Coming soon
 │   ├── water-system.md      # Coming soon
+│   ├── sleep-system.md      # Coming soon
+│   ├── hygiene.md           # Coming soon
 │   └── public/              # Static assets (favicon, etc.)
 ├── .gitignore
 ├── CONTRIBUTING.md
